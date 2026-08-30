@@ -141,7 +141,8 @@ Based on the dashboard:
 5. Select different years, months, brands, regions, cities, stores, or channels.
 6. Explore the KPIs, charts, and tables to understand sales and profitability performance.
 
-[📥 Download the Power BI Dashboard](retail_sales_dashboard.pbix)
+[📥 Download the Power BI Dashboard](HR-payroll-workforce-analytics-powerbi
+)
 
 > For the best experience, open the `.pbix` file using Microsoft Power BI Desktop. Interactive filters and visuals may not work directly in GitHub's preview.
 
