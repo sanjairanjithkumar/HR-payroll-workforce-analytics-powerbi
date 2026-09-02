@@ -4,7 +4,7 @@
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](dashboard-image.png)
+![Retail Sales Dashboard](dashboard-image.pdf)
 
 ## Project Overview
 
